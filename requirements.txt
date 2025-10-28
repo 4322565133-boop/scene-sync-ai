@@ -3,4 +3,4 @@ transformers
 Pillow
 openai
 python-dotenv
-streamlit
+streamlit>=1.34.0
