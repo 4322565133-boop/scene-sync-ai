@@ -4,3 +4,4 @@ Pillow
 openai
 python-dotenv
 streamlit>=1.34.0
+google-generativeai
